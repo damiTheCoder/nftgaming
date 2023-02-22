@@ -1,2 +1,2 @@
-# nftgaming
-VOO
+# skudo
+lalo
